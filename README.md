@@ -4,7 +4,7 @@
 > Notifications in Shiny, via [toastr](https://github.com/CodeSeven/toastr)
 
 [![Project Status: Active - The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
-[![Linux Build Status](https://travis-ci.org/MangoTheCat/shinytoastr.svg?branch=master)](https://travis-ci.org/MangoTheCat/shinytoastr)
+[![Linux Build Status](https://travis-ci.org/MangoTheCat/shinytoastr.svg?branch=main)](https://travis-ci.org/MangoTheCat/shinytoastr)
 [![Windows Build status](https://ci.appveyor.com/api/projects/status/github/MangoTheCat/shinytoastr?svg=true)](https://ci.appveyor.com/project/gaborcsardi/shinytoastr)
 [![](http://www.r-pkg.org/badges/version/shinytoastr)](http://www.r-pkg.org/pkg/shinytoastr)
 [![CRAN RStudio mirror downloads](http://cranlogs.r-pkg.org/badges/shinytoastr)](http://www.r-pkg.org/pkg/shinytoastr)
