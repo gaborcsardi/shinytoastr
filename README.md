@@ -3,10 +3,10 @@
 
 > Notifications in Shiny, via [toastr](https://github.com/CodeSeven/toastr)
 
-[![Project Status: Active - The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
+[![Project Status: Active - The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 [![R-CMD-check](https://github.com/gaborcsardi/shinytoastr/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/gaborcsardi/shinytoastr/actions/workflows/R-CMD-check.yaml)
-[![](http://www.r-pkg.org/badges/version/shinytoastr)](http://www.r-pkg.org/pkg/shinytoastr)
-[![CRAN RStudio mirror downloads](http://cranlogs.r-pkg.org/badges/shinytoastr)](http://www.r-pkg.org/pkg/shinytoastr)
+[![](https://www.r-pkg.org/badges/version/shinytoastr)](https://www.r-pkg.org/pkg/shinytoastr)
+[![CRAN RStudio mirror downloads](https://cranlogs.r-pkg.org/badges/shinytoastr)](https://www.r-pkg.org/pkg/shinytoastr)
 
 <h1 align="center">
     <img width="400" src="./inst/shinytoastr.png">
