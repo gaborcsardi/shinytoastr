@@ -1,3 +1,5 @@
+# shinytoastr (development version)
+
 # shinytoastr 2.2.0
 
 * New `toastr_clear_all()` function to remove existing notifications
